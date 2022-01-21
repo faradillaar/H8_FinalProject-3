@@ -1,2 +1,2 @@
-# H8_FinalProject-3
+# Final Project 3
 Studi Independen Hacktiv8
